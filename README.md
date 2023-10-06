@@ -15,3 +15,9 @@ view-source:https://www.facebook.com/dialog/oauth?client_id=124024574287414&redi
 
 ### Bước 3
 + Tại **thanh địa chỉ** chúng ta sẽ thấy **access_token** xuất hiện. Và thế là đã thành công lấy được Token.
+
+## 📁 Hỗ trợ
+
+**Cần hỗ trợ? Hãy liên hệ với tôi [tại đây.](https://t.me/sironho)**
+
+
